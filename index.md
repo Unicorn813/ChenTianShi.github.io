@@ -8,7 +8,7 @@
       <p><b>地址：河北省石家庄市长安区北二环东路17号</b></p>
     </td>
     <td width="25%">
-      <img src="/chentianshi.jpg" width="100%">      % 插入证件照代码
+      <img src="/chentianshi.jpg" width="100%">      ![证件照](/zhengjianzhao.jpg)
     </td>
   </tr>
 </table>
