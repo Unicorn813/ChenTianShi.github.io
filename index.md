@@ -1,6 +1,7 @@
 <table border="0">
 
-  <tbody><tr>
+
+  <tr>
 
    <td width="75%">
       <h1>陈天时</h1>
@@ -9,10 +10,10 @@
         <p><b>邮箱：1029236148@qq.com</b></p>
         <p><b>地址：河北省石家庄市长安区北二环东路17号</b></p>
     </td>
-
     <td width="25%">
       <img src="chentianshi.JPG" width="100%">  
     </td>
   </tr>
 
-</tbody></table>
+
+</table>
