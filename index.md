@@ -23,23 +23,29 @@
   </tr>
   <tr>
    <td>
-      <h1>编程能力</h1>
+      <h1>编程语言</h1>
         <p><b>JAVA</b></p>
-        <p><b>JAVAWEB</b></p>
         <p><b>C语言</b></p>
         <p><b>C++</b></p>
         <p><b>PYTHON</b></p>
-        <p><b>FLASH</b></p>
     </td>
     <td>
       <h1>熟练程度</h1>
           <p><b>熟练</b></p>
-          <p><b>熟练</b></p>
-          <p><b>一般</b></p>
           <p><b>一般</b></p>
           <p><b>一般</b></p>
           <p><b>一般</b></p>
      </td>
+  </tr>
+  <tr>
+   <td>
+      <h1>熟悉框架</h1>
+        <p><b>JavaWeb</b></p>
+        <p><b>SSM</b></p>
+        <p><b>Hadoop</b></p>
+        <p><b>Hive</b></p>
+        <p><b>MapReduce</b></p>
+    </td>
   </tr>
    <tr>
        <td>
