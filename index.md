@@ -8,7 +8,7 @@
       <p><b>地址：河北省石家庄市长安区北二环东路17号</b></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/Unicorn813/ChenTianShi.github.io/blob/master/chentianshi.JPG)" width="100%">  
+      <img src="/chentianshi.JPG)" width="100%">  
     </td>
   </tr>
 </table>
