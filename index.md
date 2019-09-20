@@ -10,7 +10,7 @@
     </td>
 
     <td width="25%">
-      <img src="chentianshi.JPG)" width="100%">  
+      <img src="chentianshi.JPG" width="100%">  
     </td>
   </tr>
   
