@@ -1,7 +1,7 @@
-<table border="0" align="left">
+<table border="0" >
 
   <tr>
-   <td width="75%">
+   <td width="75%" align="left">
       <h1>个人信息</h1>
         <p><b>姓名：陈天时</b></p>
         <p><b>学历：大学本科</b></p>
