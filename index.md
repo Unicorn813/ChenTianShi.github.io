@@ -66,5 +66,13 @@
         <p><b>2019中国软件杯：基于国产CPU环境的微服务应用实践</b></p>
         <p><b>“达观杯”文本智能处理挑战赛 </b></p>
     </td>
+  <td>
+      <h1>涉及技术</h1>
+        <p><b>hive，spark</b></p>
+        <p><b>hive，spark</b></p>
+        <p><b>java</b></p>
+        <p><b>Spring Cloud</b></p>
+        <p><b>python</b></p>
+    </td>
   </tr>
 </table>
