@@ -27,13 +27,17 @@
         <p><b>JAVA</b></p>
         <p><b>C语言</b></p>
         <p><b>C++</b></p>
+        <p><b>C#</b></p>
         <p><b>PYTHON</b></p>
+        <p><b>Android</b></p>
     </td>
     <td>
       <h1>熟练程度</h1>
           <p><b>熟练</b></p>
           <p><b>一般</b></p>
           <p><b>一般</b></p>
+          <p><b>一般</b></p>
+          <p><b>熟练</b></p>
           <p><b>一般</b></p>
      </td>
   </tr>
